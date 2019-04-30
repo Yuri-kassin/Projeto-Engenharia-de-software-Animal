@@ -20,6 +20,7 @@ dependencies:
   flutter:
     sdk: flutter
   firebase_auth: ^0.8.4+5
+  titled_navigation_bar: ^2.2.0
 
 
   # The following adds the Cupertino Icons font to your application.
